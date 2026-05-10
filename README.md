@@ -15,4 +15,3 @@ I made this project because ive been highly interested in avaiation in general, 
 | Servo Motor | Rotating the sensor of a bigger angle of operation | 1 | 1.80 | https://www.aliexpress.com/item/1005006283358420.html | Aliexpress |
 | Ultra Sonic Sensor | Detecting and measuring the distance of objects | 1 | 1.70 | https://www.aliexpress.com/item/1005005467178145.html | Aliexpress |
 | Color Display | Radar sweep animation | 1 | 9.45 | https://www.aliexpress.com/item/1005009761383945.html | AliExpress |
-| ESP32 Development Board | Main microcontroller for this project | 1 | 4.50 | https://www.aliexpress.com/item/1005005655238798.html | Aliexpress |
